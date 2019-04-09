@@ -12,3 +12,9 @@ Wes McKinney, creator of Pandas, has this to say about why he developed it:
  * Merge and other relational operations found in popular database databases(SQL- based, for example).
 
  > and... I wanted to be able to do all of these things in one place, preferably in a language well- suited to general purpose software development.
+ > 
+ > 
+ 
+ ### [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+ ### [Pandas Top 10](http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)
+ ### [Intro to IPython Notebook](https://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/master/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb)
